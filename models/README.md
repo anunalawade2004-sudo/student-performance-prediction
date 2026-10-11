@@ -1,0 +1,1 @@
+This folder is reserved for optional saved model artifacts. The current app trains and caches models when it starts; no model files need to be committed.

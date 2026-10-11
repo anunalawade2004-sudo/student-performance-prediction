@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Local environment and editor files
+.env
+.vscode/
+.idea/
+
+# Model artifacts and caches
+models/*.pkl
+models/*.joblib
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
